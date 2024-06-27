@@ -2,7 +2,7 @@
 
 ### Hi there 👋 This is Yan Mingxue! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="cat">
 
-Welcome to my Github page! I am Yan Mingxue and I am currently seeking my Computer Control PhD degree at Nanyang Technological University.
+Welcome to my Github page! I am Yan Mingxue from China and I am currently seeking my Computer Control PhD degree at Nanyang Technological University.
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" alt="person">
 
 #### 🌱 Current research interests:
