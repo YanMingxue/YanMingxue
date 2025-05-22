@@ -1,16 +1,16 @@
 <!--## Hi there 👋-->
 
-### Hi there 👋 This is Yan Mingxue! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="cat">
+### Hi there 👋 This is Yan Mingxue!
 
-Welcome to my Github page! I am Yan Mingxue from China and I am currently seeking my Computer Control PhD degree at Nanyang Technological University.
+Welcome to my GitHub page! I’m currently a PhD candidate at Nanyang Technological University.
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" alt="person">
 
-#### 🌱 Current research interests:
-- Learning based Nonlinear System Modeling
-- Process Control
-- Time-varing System 🚀
+#### 🌱 Current Research Interests:
+- Nonlinear System Modeling
+- Optimal Control
+- State Estimation 
 
-#### :computer: Programming languages and tools:
+#### :computer: Programming Languages and Tools:
 <p>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
